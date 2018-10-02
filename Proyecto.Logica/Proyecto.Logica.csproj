@@ -42,10 +42,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL\clsConexion.cs" />
+    <Compile Include="BL\clsEstadoTarea.cs" />
+    <Compile Include="BL\clsGeneral.cs" />
     <Compile Include="BL\clsPosiblesClientes.cs" />
+    <Compile Include="BL\clsPrioridad.cs" />
+    <Compile Include="BL\clsRecuperarPassword.cs" />
     <Compile Include="BL\clsUsuarios.cs" />
-    <Compile Include="Models\clsPosiblesClientes.cs" />
+    <Compile Include="Models\clsVigilante.cs" />
+    <Compile Include="Models\clsAdministrador.cs" />
+    <Compile Include="Models\clsCliente.cs" />
+    <Compile Include="Models\clsDestino.cs" />
+    <Compile Include="Models\clsObjeto.cs" />
+    <Compile Include="Models\clsOrigen.cs" />
+    <Compile Include="Models\clsPersona.cs" />
+    <Compile Include="Models\clsTipoIdentificacion.cs" />
+    <Compile Include="Models\clsTransportista.cs" />
     <Compile Include="Models\clsUsuarios.cs" />
+    <Compile Include="Models\clsViajes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
